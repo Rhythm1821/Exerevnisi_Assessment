@@ -14,7 +14,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Rhythm1821/exerevnisi-assessment
+   git clone https://github.com/Rhythm1821/Exerevnisi_Assessment
    ```
 
 2. Navigate to the project directory:
